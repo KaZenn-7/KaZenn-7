@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @KaZenn-7
-- 👀 I’m interested in whatsapp bots
-- 🌱 I’m currently learning multi device whatsapp bots
-- 💞️ I’m looking to collaborate on projects for multi device
-- 📫 Reach me on wa.me/5511985322636
+- 👋 Hi, I’m ramo s(@KaZenn-7)
+- 👀 I’m interested in nodejs
+- 🌱 I’m currently working on a pokemon whatsapp bot
+- 📫 Reach me on ramodev.s155@gmail.com
 
 <!---
 KaZenn-7/KaZenn-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
