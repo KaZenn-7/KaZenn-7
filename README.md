@@ -1,6 +1,7 @@
 - 👋 Hi, I’m ramo s(@KaZenn-7)
-- 👀 I’m interested in nodejs
-- 🌱 I’m currently working on a pokemon whatsapp bot
+- 👀 I’m learning about web development
+- 🧪 Already know some NodeJS, actually aplying it and learning HTML and CSS
+- 🌱 I’m currently working on a pokemon web site
 - 📫 Reach me on ramodev.s155@gmail.com
 
 <!---
