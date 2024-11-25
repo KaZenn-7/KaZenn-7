@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ramo s(@KaZenn-7)
 - 👀 I’m learning about web development
 - 🧪 Already know some NodeJS, actually aplying it and learning HTML and CSS
-- 🌱 I’m currently working on a pokemon web site
+- 🌱 I’m currently working on a discord bot
 - 📫 Reach me on ramodev.s155@gmail.com
 
 <!---
