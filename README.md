@@ -1,7 +1,11 @@
-- 👋 Hi, I’m ramo s (@KaZenn-7)
-- 👀 I’m learning about web development
-- 🧪 Already know some NodeJS, actually aplying it and trying new technologies
-- 🌱 I’m currently working on a discord bot for a competitive community
+- 👋 Hi, I’m Caio Ramos (also known as "Ramos" or @KaZenn-7)
+  
+- 💻 I'm a Computer Engineering Student.
+- 🧪 I’m currently learning about use Java to systems development.
+- 🌱 Also developing some intern systems for @Mobile-Pro-League using NodeJs
+- 👌 A great fan of @WhiskeySockets/baileys.
+
+- 👀 What can we build today?
 - 📫 Reach me on ramodev.s155@gmail.com
 
 <!---
